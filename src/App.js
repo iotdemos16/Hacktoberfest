@@ -19,6 +19,14 @@ class App extends Component {
           >
             Learn React
           </a>
+          <a
+            className="App-link"
+            href="https://hacktoberfest.digitalocean.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Viva Hacktoberfest!
+          </a>
         </header>
       </div>
     );
